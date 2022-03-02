@@ -6,4 +6,12 @@
 
 ---
 
-<!-- ### Email: <priyanshu.vyas2020@vitstudent.ac.in> -->
+> ## Git Stats
+>![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Vyas&show_icons=true&count_private=true&include_all_commits=true)
+
+---
+
+> ## Languages
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Vyas&langs_count=10&layout=compact)](https://github.com/Priyanshu-Vyas/github-readme-stats)
+
+---
