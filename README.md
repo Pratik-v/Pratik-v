@@ -15,3 +15,8 @@
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Vyas&langs_count=10&layout=compact)](https://github.com/Priyanshu-Vyas/github-readme-stats)
 
 ---
+
+> ## Git Streak
+> ![Git Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Vyas)
+
+---
