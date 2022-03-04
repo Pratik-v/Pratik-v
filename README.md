@@ -1,4 +1,4 @@
-><h1> Hi there 👋 </h1>
+># Hi there 👋 
 
 ---
 
@@ -6,22 +6,22 @@
 
 ---
 
-> ## Git Stats
+>## Git Stats
 >![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Vyas&show_icons=true&count_private=true&include_all_commits=true&theme=react)
 
 ---
 
-> ## Languages
+>## Languages
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Vyas&langs_count=10&layout=compact&theme=react)](https://github.com/Priyanshu-Vyas/github-readme-stats)
 
 ---
 
-> ## Git Streak
+>## Git Streak
 > ![Git Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Vyas&theme=react)
 
 ---
 
-> ## Git Activity Graph
+>## Git Activity Graph
 > ![Priyanshu's github activity graph](https://activity-graph.herokuapp.com/graph?username=Priyanshu-Vyas&theme=react-dark)
 
 ---
