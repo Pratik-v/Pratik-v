@@ -26,7 +26,7 @@
 ---
 
 >## Git Activity Graph
-> ![Priyanshu's github activity graph](https://activity-graph.herokuapp.com/graph?username=Priyanshu-Vyas&theme=react-dark)
+> ![Priyanshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshu-Vyas&theme=react-dark)
 
 ---
 
