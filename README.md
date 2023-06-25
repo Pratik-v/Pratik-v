@@ -24,12 +24,12 @@
 > ![Git Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Vyas&theme=react)
 
 ---
-
+<!--
 >## Git Activity Graph
 > ![Priyanshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshu-Vyas&theme=react-dark)
 
 ---
-
+-->
 
 
 <!-- <a herf='https://github.com/Priyanshu-Vyas?tab=repositories'><img src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=blue&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Priyanshu-Vyas&logoColor=black' /></a>
